@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2.0,
+  "id": "sortable-latest-data",
+  "type": "module",
+  "namespace": "SortableLatestData",
+  "version": "7.0-2",
+  "name": "Sortable latest data",
+  "description": "Make column Latest data sortable",
+  "author": "initMAX s.r.o.",
+  "url": "https://www.initmax.com",
+  "actions": {
+    "sortable.latest.view": {
+      "class": "CControllerSortableLatestView",
+      "view": "monitoring.sortable.latest.view",
+      "layout": "layout.htmlpage"
+    },
+    "sortable.latest.view.refresh": {
+      "class": "CControllerSortableLatestViewRefresh",
+      "view": "monitoring.sortable.latest.view.refresh",
+      "layout": "layout.json"
+    }
+  }
+}
