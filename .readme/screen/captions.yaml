@@ -1,0 +1,9 @@
+01-overview.png:
+  en: "Use a dedicated Latest data view with sortable columns while keeping the familiar Zabbix filters and actions."
+  cs: "Používejte samostatný přehled Nejnovější data s řaditelnými sloupci a zachovanými filtry i akcemi Zabbixu."
+02-sorted-desc.png:
+  en: "Sort monitored items by Last value to bring the largest or smallest readings to the top immediately."
+  cs: "Seřaďte monitorované položky podle poslední hodnoty a okamžitě zobrazte nejvyšší nebo nejnižší výsledky nahoře."
+widget.png:
+  en: "Sortable Latest data integrates as a native Zabbix monitoring page."
+  cs: "Řaditelná Nejnovější data se integrují jako nativní monitorovací stránka Zabbixu."
