@@ -1,0 +1,18 @@
+01-overview.png:
+  en: "A dedicated Latest data page where Last value, Last check and Change sort too - with the familiar Zabbix filter, subfilters and actions."
+  cs: "Samostatná stránka Latest data, kde řadí i Last value, Last check a Change - se známým filtrem, subfiltry i akcemi Zabbixu."
+02-sorted-desc.png:
+  en: "Sort monitored items by Last value to bring the largest or smallest readings to the top immediately."
+  cs: "Seřaďte monitorované položky podle poslední hodnoty a okamžitě zobrazte nejvyšší nebo nejnižší výsledky nahoře."
+widget.png:
+  en: "Sortable Latest data integrates as a native Zabbix monitoring page."
+  cs: "Řaditelná Nejnovější data se integrují jako nativní monitorovací stránka Zabbixu."
+03-filter.png:
+  en: "The same filter and subfilters as the stock Latest data page, and the saved filter tabs are shared with it - a filter saved on one page is there on the other."
+  cs: "Stejný filtr a subfiltry jako na původní stránce Latest data, uložené záložky filtru jsou s ní sdílené - filtr uložený na jedné stránce je i na druhé."
+04-sorted-change.png:
+  en: "Sort by Change to see which items moved the most since their previous value - the biggest jumps and drops first."
+  cs: "Řazení podle Change ukáže, které položky se od předchozí hodnoty změnily nejvíc - největší skoky a propady nahoře."
+05-sorted-lastcheck.png:
+  en: "Sort by Last check to find items that stopped updating - the stalest readings first, the freshest last."
+  cs: "Řazení podle Last check najde položky, které se přestaly aktualizovat - nejstarší čtení nahoře, nejčerstvější dole."
